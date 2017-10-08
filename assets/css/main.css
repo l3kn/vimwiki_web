@@ -1,0 +1,19 @@
+body {
+  max-width: 50em;
+  margin: auto;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  background-color: #fffff8;
+  color: #111;
+  font-size: 15px; }
+
+a {
+  color: #111; }
+
+h1 {
+  font-size: 2em; }
+
+h2 {
+  font-size: 1.5em; }
+
+h3, h4, h5, h6 {
+  font-size: 1.2em; }
